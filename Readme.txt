@@ -1,0 +1,1 @@
+This is my Laravel Dino Project: Implements CRUD functionality for managing a collection of dinosaurs
